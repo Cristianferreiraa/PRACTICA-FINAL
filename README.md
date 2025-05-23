@@ -55,6 +55,9 @@ Està dissenyada per complir amb els requisits d'una pràctica de disseny web i 
 - Grid amb targetes per al primer equip, cantera, estadi i classificació.
 - Navegació principal comuna.
 
+![image](2.png).
+
+
 ### `quisom.html`
 - Secció informativa sobre la missió i valors del club.
 - Ús de llistes i seccions per facilitar la lectura.
