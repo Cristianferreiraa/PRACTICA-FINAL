@@ -11,8 +11,19 @@ Benvingut al lloc web oficial del **Futbol Club Tupinho**, una pràctica web des
 Aquest projecte consisteix en una **pàgina web responsive** amb diverses seccions informatives:
 
 - Pàgina d'inici (`index.html`)
+
+![image](6.png).
+
 - Qui som (`quisom.html`)
+
+![image](7.png).
+
 - Contacte (`contacte.html`)
+
+
+![image](8.png).
+
+
 
 Està dissenyada per complir amb els requisits d'una pràctica de disseny web i pensada per obtenir la màxima qualificació.
 
@@ -55,16 +66,23 @@ Està dissenyada per complir amb els requisits d'una pràctica de disseny web i 
 - Grid amb targetes per al primer equip, cantera, estadi i classificació.
 - Navegació principal comuna.
 
-![image](2.png).
+![image](3.png).
 
 
 ### `quisom.html`
 - Secció informativa sobre la missió i valors del club.
 - Ús de llistes i seccions per facilitar la lectura.
 
+![image](2.png).
+
+
 ### `contacte.html`
 - Formulari de contacte amb camps obligatoris.
 - Layout net i accessible.
+
+
+![image](4.png).
+
 
 ### `styles.css`
 - Colors personalitzats i tipografia coherent.
@@ -73,8 +91,16 @@ Està dissenyada per complir amb els requisits d'una pràctica de disseny web i 
 - Responsive a través de `media queries`.
 - Classe `.active` per destacar la pàgina actual.
 
+
+![image](5.png).
+
+
 ### `script.js`
 - Marca automàticament l'enllaç actiu a la navbar segons la pàgina visitada.
+
+
+![image](1.png).
+
 
 ---
 
