@@ -20,3 +20,10 @@ Està dissenyada per complir amb els requisits d'una pràctica de disseny web i 
 
 ## Estructura de carpetes
 
+├── index.html
+├── quisom.html
+├── contacte.html
+├── styles.css
+├── script.js
+├── README.md
+└── images/
